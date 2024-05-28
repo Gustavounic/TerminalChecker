@@ -21,6 +21,8 @@ or
 
 Syntax:
   python -f [path_file]
+  or
+  python -u [url]
 
 
 <h3>The answers are very simple, but they tell you based on API scanners if your file/URL contains some kind of malware or not, I will try to improve them soon to provide more information, but thanks for trying and I hope you like it!</h3>
